@@ -1,7 +1,6 @@
-#Hunting Season Scraper
+# Hunting Season Scraper
 
-
-##Usage
+## Usage
 
 In the root folder (where scrapy.cfg is located) run the following command in terminal
 ```bash
